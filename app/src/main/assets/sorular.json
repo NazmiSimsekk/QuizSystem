@@ -1,0 +1,114 @@
+{
+    "sorular": [
+        {
+            "soru_metni": "Question1",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer2"
+        },
+        {
+            "soru_metni": "Question2",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer1"
+        },
+        {
+            "soru_metni": "Question3",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer4"
+        },
+        {
+            "soru_metni": "Question4",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer3"
+        },
+        {
+            "soru_metni": "Question5",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer4"
+        },
+        {
+            "soru_metni": "Question6",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer2"
+        },
+        {
+            "soru_metni": "Question7",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer5"
+        },
+        {
+            "soru_metni": "Question8",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer4"
+        },
+        {
+            "soru_metni": "Question9",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer3"
+        },
+        {
+            "soru_metni": "Answer10",
+            "secenekler": [
+                "Answer1",
+                "Answer2",
+                "Answer3",
+                "Answer4",
+                "Answer5"
+            ],
+            "dogru_cevap": "Answer1"
+        }
+    ]
+}
